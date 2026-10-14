@@ -24,7 +24,7 @@ book-recommendation/
 ## Getting Started
 
 1. Clone the repo:
-git clone https://github.com/YOUR_USERNAME/book-recommendation.git
+git clone https://github.com/mburuericc/book-recommendation.git
 cd book-recommendation
 
 2. Install dependencies:
